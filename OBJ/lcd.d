@@ -1,0 +1,13 @@
+..\OBJ\lcd.o: ..\HARDWARE\LCD\LCD.c
+..\OBJ\lcd.o: ..\HARDWARE\LCD\lcd.h
+..\OBJ\lcd.o: ..\SYSTEM\sys\sys.h
+..\OBJ\lcd.o: D:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_map.h
+..\OBJ\lcd.o: D:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_conf.h
+..\OBJ\lcd.o: D:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_type.h
+..\OBJ\lcd.o: D:\Keil\ARM\INC\ST\STM32F10x\cortexm3_macro.h
+..\OBJ\lcd.o: D:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_nvic.h
+..\OBJ\lcd.o: D:\Keil\ARM\RV31\INC\stdlib.h
+..\OBJ\lcd.o: ..\HARDWARE\LCD\font.h
+..\OBJ\lcd.o: ..\SYSTEM\usart\usart.h
+..\OBJ\lcd.o: D:\Keil\ARM\RV31\INC\stdio.h
+..\OBJ\lcd.o: ..\SYSTEM\delay\delay.h

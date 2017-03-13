@@ -1,0 +1,11 @@
+..\obj\control.o: ..\HARDWARE\CONTROL\control.c
+..\obj\control.o: ..\HARDWARE\CONTROL\control.h
+..\obj\control.o: ..\SYSTEM\sys\sys.h
+..\obj\control.o: ..\USER\stm32f10x_map.h
+..\obj\control.o: ..\USER\stm32f10x_conf.h
+..\obj\control.o: ..\USER\stm32f10x_type.h
+..\obj\control.o: ..\USER\cortexm3_macro.h
+..\obj\control.o: ..\USER\stm32f10x_nvic.h
+..\obj\control.o: ..\USER\define.h
+..\obj\control.o: ..\HARDWARE\TIMER\timer.h
+..\obj\control.o: ..\HARDWARE\LED\led.h

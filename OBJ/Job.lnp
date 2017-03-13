@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+"..\obj\startup_stm32f10x_md.o"
+"..\obj\main.o"
+"..\obj\delay.o"
+"..\obj\sys.o"
+"..\obj\usart.o"
+"..\obj\led.o"
+"..\obj\24l01.o"
+"..\obj\spi.o"
+"..\obj\exti.o"
+"..\obj\timer.o"
+"..\obj\mpu6050.o"
+"..\obj\stm32_i2c.o"
+"..\obj\imu.o"
+"..\obj\fast_math.o"
+"..\obj\control.o"
+"..\obj\hmc5883.o"
+--strict --scatter "..\OBJ\Job.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\OBJ\Job.map" -o ..\OBJ\Job.axf

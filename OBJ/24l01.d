@@ -1,0 +1,10 @@
+..\obj\24l01.o: ..\HARDWARE\NRF24L01\24l01.c
+..\obj\24l01.o: ..\SYSTEM\delay\delay.h
+..\obj\24l01.o: ..\USER\stm32f10x_map.h
+..\obj\24l01.o: ..\USER\stm32f10x_conf.h
+..\obj\24l01.o: ..\USER\stm32f10x_type.h
+..\obj\24l01.o: ..\USER\cortexm3_macro.h
+..\obj\24l01.o: ..\HARDWARE\SPI\spi.h
+..\obj\24l01.o: ..\SYSTEM\sys\sys.h
+..\obj\24l01.o: ..\USER\stm32f10x_nvic.h
+..\obj\24l01.o: ..\HARDWARE\NRF24L01\24L01.h

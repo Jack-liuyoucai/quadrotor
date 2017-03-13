@@ -1,0 +1,34 @@
+*** Creating Trace Output File '..\OBJ\Job.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### List of Objects: adding '"..\obj\led.o"'
+### List of Objects: adding '"..\obj\24l01.o"'
+### List of Objects: adding '"..\obj\spi.o"'
+### List of Objects: adding '"..\obj\exti.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\mpu6050.o"'
+### List of Objects: adding '"..\obj\stm32_i2c.o"'
+### List of Objects: adding '"..\obj\imu.o"'
+### List of Objects: adding '"..\obj\fast_math.o"'
+### List of Objects: adding '"..\obj\control.o"'
+### List of Objects: adding '"..\obj\hmc5883.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\startup_stm32f10x_md.o" "..\obj\main.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\usart.o" "..\obj\led.o" "..\obj\24l01.o" "..\obj\spi.o" "..\obj\exti.o" "..\obj\timer.o" "..\obj\mpu6050.o" "..\obj\stm32_i2c.o" "..\obj\imu.o" "..\obj\fast_math.o" "..\obj\control.o" "..\obj\hmc5883.o" --strict --scatter "..\OBJ\Job.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\OBJ\Job.map" -o "..\OBJ\Job.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\Job.axf'
+### ADS-LD Command File: '..\OBJ\Job.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\Job.lnp', Handle=0x000003C4
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\Job.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

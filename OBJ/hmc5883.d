@@ -1,0 +1,10 @@
+..\obj\hmc5883.o: ..\HARDWARE\HMC5883\HMC5883.c
+..\obj\hmc5883.o: ..\HARDWARE\HMC5883\HMC5883.h
+..\obj\hmc5883.o: ..\SYSTEM\sys\sys.h
+..\obj\hmc5883.o: ..\USER\stm32f10x_map.h
+..\obj\hmc5883.o: ..\USER\stm32f10x_conf.h
+..\obj\hmc5883.o: ..\USER\stm32f10x_type.h
+..\obj\hmc5883.o: ..\USER\cortexm3_macro.h
+..\obj\hmc5883.o: ..\USER\stm32f10x_nvic.h
+..\obj\hmc5883.o: ..\HARDWARE\MPU6050\STM32_I2C.h
+..\obj\hmc5883.o: ..\USER\define.h
